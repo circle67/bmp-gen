@@ -1,0 +1,4 @@
+.build/* linguist-vendored
+lib/* linguist-vendored
+test/* linguist-vendored
+.eslintrc.cjs linguist-vendored

@@ -1,0 +1,10 @@
+{
+	"extends": "@tsconfig/node-lts-strictest-esm/tsconfig.json",
+  "compilerOptions": {
+    "emitDeclarationOnly": true,
+    "declaration": true,
+	  "removeComments": false,
+	  "outDir": "lib"
+  },
+	"files": ["src/index.ts"]
+}
